@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mcq-generator
+Version: 0.1
+Author: priyansh
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pypdf2
